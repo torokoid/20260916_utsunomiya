@@ -246,8 +246,8 @@ p.note { display: none; }
 <h2><span class="yellow">アディダスの3本線が横線になってます</span></h2>
 <a href="20260916_00035.jpeg" target="_blank"><img src="20260916_00035.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">ナイキマークもキラキラ</span></h2>
-<a href="20260916_00001.MOV" target="_blank"><img src="20260916_00001.NOV" alt="サンプル画像" class="responsive-media"></a>
+<h2><span class="yellow">ナイキマークもキラキラ<br>画像クリックで動画再生します↓</span></h2>
+<a href="20260916_00001.MOV" target="_blank"><img src="20260916_001.png" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">ハロウィングッズもあります</span></h2>
 <a href="20260916_00036.jpeg" target="_blank"><img src="20260916_00036.jpeg" alt="サンプル画像" class="responsive-media"></a>
